@@ -1,0 +1,9 @@
+== Picture my Text
+ picture_my_text will create a square image using 
+ by generating a greyscale color of each character.
+
+== Usage
+ $ ./picture.py LOTR.txt pix.png 
+ characters: 54395
+ width: 234
+ height: 233
